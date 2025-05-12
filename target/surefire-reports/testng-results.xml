@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-05-02T14:15:34 IST" name="Suite" finished-at="2025-05-02T14:15:47 IST" duration-ms="13024">
+  <suite started-at="2025-05-12T12:36:25 IST" name="Suite" finished-at="2025-05-12T12:36:41 IST" duration-ms="16864">
     <groups>
     </groups>
-    <test started-at="2025-05-02T14:15:34 IST" name="Test" finished-at="2025-05-02T14:15:47 IST" duration-ms="13024">
+    <test started-at="2025-05-12T12:36:25 IST" name="Test" finished-at="2025-05-12T12:36:41 IST" duration-ms="16864">
       <class name="com.infy.testcases.Testcase_001_LoginTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.infy.testcases.Testcase_001_LoginTest@3f197a46]" started-at="2025-05-02T14:15:34 IST" name="setUp" finished-at="2025-05-02T14:15:39 IST" duration-ms="5385" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.infy.testcases.Testcase_001_LoginTest@3daa422a]" started-at="2025-05-12T12:36:25 IST" name="setUp" finished-at="2025-05-12T12:36:34 IST" duration-ms="9201" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="loginWithValidCredentials()[pri:1, instance:com.infy.testcases.Testcase_001_LoginTest@3f197a46]" started-at="2025-05-02T14:15:39 IST" name="loginWithValidCredentials" finished-at="2025-05-02T14:15:47 IST" duration-ms="7595" status="PASS">
+        <test-method signature="loginWithValidCredentials()[pri:1, instance:com.infy.testcases.Testcase_001_LoginTest@3daa422a]" started-at="2025-05-12T12:36:34 IST" name="loginWithValidCredentials" finished-at="2025-05-12T12:36:41 IST" duration-ms="7616" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginWithValidCredentials -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.infy.testcases.Testcase_001_LoginTest@3f197a46]" started-at="2025-05-02T14:15:47 IST" name="tearDown" finished-at="2025-05-02T14:15:47 IST" duration-ms="2" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.infy.testcases.Testcase_001_LoginTest@3daa422a]" started-at="2025-05-12T12:36:41 IST" name="tearDown" finished-at="2025-05-12T12:36:41 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
